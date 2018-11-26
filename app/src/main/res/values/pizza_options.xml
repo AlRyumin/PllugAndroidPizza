@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pizza_name_1">Combo Pizza</string>
+    <string name="pizza_price_1">9.99</string>
+    <string name="pizza_description_1">Original Combo Pizza</string>
+    <string name="pizza_composition_1">Pepperoni, Italian sausage, seasoned beef, mushrooms, green peppers, onions, mozzarella cheese.</string>
+</resources>
